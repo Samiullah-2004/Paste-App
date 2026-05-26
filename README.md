@@ -4,7 +4,7 @@ A modern paste manager built with React and Redux. Create, edit, view, copy, sha
 
 ## Live Demo
 
-[Click here to view](https://Samiullah-2004.github.io/paste-app/)
+[Click here to view](https://paste-app-pied-iota.vercel.app/)
 
 ---
 
@@ -80,7 +80,7 @@ paste-app/
 
 ```bash
 # Clone the repo
-git clone https://github.com/Samiullah-2004/paste-app.git
+https://paste-app-pied-iota.vercel.app/
 
 # Go into the project
 cd paste-app
